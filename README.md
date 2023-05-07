@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://nemonet-profile.netlify.app"/>
-    <img src="https://img.shields.io/badge/hy👋,_welcome!-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hey_👋_What's up?-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </p>
 
