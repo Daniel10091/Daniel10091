@@ -206,7 +206,7 @@
   </a>
 </p>
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling" width=100% title="Daniel10091" alt="Daniel10091"/>
 
 
 <!-- ###### END OF FOOTER ##### -->
