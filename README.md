@@ -145,7 +145,7 @@
 
 <!-- ###### END OF My Github Stats  ##### -->
 
-
+![Snake animation](https://github.com/Daniel10091/Daniel10091/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ###### QUOTE OF THE DAY ##### -->
 
