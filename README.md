@@ -46,17 +46,17 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
 </h4>
 
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/javascript-512.png" width="35" alt="Java Script"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/react-native-512.png" width="35" alt="React Native"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/java-512.png" width="35" alt="Java"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/php.png" width="35" alt="PHP"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/sql.png" width="35" alt="SQL"/></code>
+<code><img src="icons/gradient/javascript-512.png" width="35" alt="Java Script"/></code>
+<code><img src="icons/gradient/react-native-512.png" width="35" alt="React Native"/></code>
+<code><img src="icons/gradient/java-512.png" width="35" alt="Java"/></code>
+<code><img src="icons/gradient/php.png" width="35" alt="PHP"/></code>
+<code><img src="icons/gradient/sql.png" width="35" alt="SQL"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/kali.jpeg" width="30" alt="Kali Linux"/></code>
+<code><img src="icons/non-gradient/kali.jpeg" width="30" alt="Kali Linux"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/figma-512.png" width="35" alt="Figma"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/visual-studio-code-2019-512.png" width="35" alt="VS Code"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/android-studio-512.png" width="35" alt="Android Studio"/></code>
+<code><img src="icons/gradient/figma-512.png" width="35" alt="Figma"/></code>
+<code><img src="icons/gradient/visual-studio-code-2019-512.png" width="35" alt="VS Code"/></code>
+<code><img src="icons/gradient/android-studio-512.png" width="35" alt="Android Studio"/></code>
 
 <!-- ###### END OF Languages | Tools ##### -->
 
@@ -68,8 +68,8 @@
   📖 Currently Learning 📖 
 </h4>
 
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/blob/main/imgs/gradient/sql.png?raw=true" width="35" alt="SQL" /></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/blob/main/imgs/gradient/c-plus-plus.png?raw=true" width="35" alt="C++" /></code>
+<code><img src="icons/gradient/sql.png?raw=true" width="35" alt="SQL" /></code>
+<code><img src="icons/gradient/c-plus-plus.png?raw=true" width="35" alt="C++" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>
@@ -167,23 +167,23 @@
 <!-- ###### SOCIAL MEDIA LINKS ##### -->
 
 <h4 align="center">
-  <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> 
+  <img src="icons/gif/contact.gif" width="30" align="center"> 
   Contact 
-  <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
+  <img src="icons/gif/contact.gif" width="30" align="center">
 </h4>
 
 <p align="center">
   <a href="https://www.instagram.com/carvadaniar" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/instagram-512.png" width="35"/>
+    <img src="icons/gradient/instagram-512.png" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/daniel-carvalho-0a5652215" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/linkedin-512.png" width="35" />
+    <img src="icons/gradient/linkedin-512.png" width="35" />
   </a>
   <a href="https://twitter.com/danield27975177" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/twitter-512.png" width="35" />
+    <img src="icons/gradient/twitter-512.png" width="35" />
   </a>
   <a href="mailto:danielcodercoder@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/gmail-logo-512.png" width="35"/>
+    <img src="icons/gradient/gmail-logo-512.png" width="35"/>
   </a>
 </p>
 
@@ -195,9 +195,9 @@
 <!-- ###### FOOTER ##### -->
 
 <h4 align="center">
-  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> 
+  <img src='icons/gif/handShake.gif' width="30px" height="30px" align="center"> 
   Support Me 
-  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center">
+  <img src='icons/gif/handShake.gif' width="30px" height="30px" align="center">
 </h4>
 
 <p align="center">
