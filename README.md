@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/Daniel10091">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&pause=1000&color=9F53FF&center=true&vCenter=true&width=650&height=120&lines=🔗+Software+Engineer;👨%E2%80%8D💻+Fullstack+Web+Developer;📲+Mobile+App+Developer;🎨%20UI/UX%20%20Design;🤝+1++years+of+coding+experience;🦄+Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&pause=1000&color=9F53FF&center=true&vCenter=true&width=650&height=120&lines=👨%E2%80%8D💻+Fullstack+Web+Developer;📲+Mobile+App+Developer;🎨%20UI/UX%20%20Design;🤝+1++years+of+coding+experience;🦄+Always+learning+new+tech" alt="Typing SVG" />
   </a>
 </p>
 
